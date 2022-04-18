@@ -23,6 +23,7 @@
 
 
 ### 总结：
-出包的ipa中添加简体中文即可解决问题
-同理其他系统级别弹出显示为英文，使用此方法能解决问题
-打包后的ipa解压目录下含zh-Hans.lproj文件才能成功
+- 出包的ipa中添加简体中文即可解决问题
+- 同理其他系统级别弹出显示为英文，使用此方法能解决问题
+- 打包后的ipa解压目录下含zh-Hans.lproj文件才能成功
+<img width="515" alt="6" src="https://user-images.githubusercontent.com/19405301/163749025-ff407cb2-1bdc-419b-834d-6f518a3a6ab0.png">
